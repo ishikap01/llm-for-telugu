@@ -8,9 +8,6 @@ This README.md file contains the process that we followed and the results that w
 
 Also, you can find some research papers in the repository that we read during the course.
 
-You can find the presentation of [SQuAD research paper presentation](https://www.canva.com/design/DAGRmAiJHLI/Dty-frFIr-jIFDziMR3zEg/view?utm_content=DAGRmAiJHLI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=ha25e3e3775) and [Differential Transformer Paper Presentation](https://www.canva.com/design/DAGVmj1JB00/y7b6o2-OsaP4nZX3EgaWmg/view?utm_content=DAGVmj1JB00&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h699303325e) 
-
-
 
 ## [Telugu Corpus Sheet](https://docs.google.com/spreadsheets/d/1Kr59i-8Gyhi3ehN_hLVCPdBcms7L07xNUUFsTW3uFDk/edit?gid=1042635267#gid=1042635267)
 
