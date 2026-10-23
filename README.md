@@ -1,12 +1,5 @@
 # LLM for Telugu
 
-## Introduction
-
-This repository contains the source code and other necessary files that we (me and my friends) used to build a LLM from scratch, during this we crawled and scraped the data from web and then built a LLM model during our coursework of Natural Language Processing course at IITGN.
-
-This README.md file contains the process that we followed and the results that we got.
-
-Also, you can find some research papers in the repository that we read during the course.
 
 
 ## [Telugu Corpus Sheet](https://docs.google.com/spreadsheets/d/1Kr59i-8Gyhi3ehN_hLVCPdBcms7L07xNUUFsTW3uFDk/edit?gid=1042635267#gid=1042635267)
